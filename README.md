@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 
-<h3 align="center">Frontend Developer • React & Next.js • UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Developer • React & Next.js</h3>
 
 
 ---
@@ -21,7 +21,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mikhailsobhy"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://facebook.com/mikhails0bhy"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
   <a href="mailto:mikhailsobhy66@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
