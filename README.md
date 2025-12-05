@@ -21,6 +21,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mikhailsobhy"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://wa.me/+201013199195"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" /></a>
   <a href="mailto:mikhailsobhy66@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
