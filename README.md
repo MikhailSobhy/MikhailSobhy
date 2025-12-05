@@ -2,18 +2,18 @@
 
 <h3 align="center">Frontend Developer • React & Next.js • UI/UX Enthusiast</h3>
 
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-illustration-download-in-svg-png-gif-file-formats--software-engineer-programming-coder-pack-design-development-illustrations-5084076.png" width="500" />
-</p>
 
 ---
 
 ## 🌟 About Me
 
-- 🚀 Frontend Developer focused on building **modern, fast & clean** web applications  
-- 🌱 Currently learning **Next.js, TypeScript & advanced UI libraries**  
-- 🎨 Passionate about **UI/UX**, animations & clean design  
-- 🇪🇬 From **Egypt**
+- 🚀 Frontend Developer specialized in building modern, fast, and scalable web applications using **React & Next.js**
+- 🎯 Strong experience in **State Management**, reusable UI components, and performance optimization
+- 🎨 Passionate about clean UI, responsive design, and delivering smooth user experiences
+- ⚡ Worked on real projects including Authentication, Routing, API Integration, and full CRUD operations
+- 🧠 Actively solving problem-solving challenges and applying best practices in real-world projects
+- 🧩 Focused on writing clean, maintainable, and scalable code
+- 🇪🇬 From Egypt
 
 ---
 
@@ -50,13 +50,5 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikhailSobhy&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailSobhy&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ⭐ **Thanks for visiting my profile!**
