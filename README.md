@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <img src="https://skillicons.dev/icons?i=xml" width="45"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
 </p>
 
@@ -64,6 +63,10 @@
 
   <a href="https://wa.me/201013199195">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/mikhails0bhy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40"/>
   </a>
 </p>
 
