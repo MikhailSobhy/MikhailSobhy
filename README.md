@@ -6,14 +6,17 @@
 
 ## 🌟 About Me
 
-- 🚀 Backend Odoo Developer specialized in building and customizing ERP systems using **Odoo (Python & PostgreSQL)**
-- 🧩 Strong experience in **Odoo ORM, Models, Business Logic, and Custom Module Development**
-- 🔧 Skilled in creating and extending Odoo modules to match complex business requirements
-- 🧾 Experienced in **QWeb Reports, XML Views, and Server Actions**
-- 🔄 Implementing and customizing business workflows across various Odoo modules based on business needs
-- 🔌 Building and integrating **REST APIs** with Odoo systems
-- 🗄️ Solid understanding of **PostgreSQL** and database design within Odoo
-- ⚡ Focused on writing clean, scalable, and maintainable backend code
+* 🚀 Backend Odoo Developer specialized in building and customizing ERP systems using **Odoo (Python & PostgreSQL)**
+* 🧩 Strong experience in **Odoo ORM, Models, Business Logic, and Custom Module Development**
+* 🔧 Skilled in creating and extending Odoo modules to match complex business requirements
+* 🧾 Experienced in **QWeb Reports, XML Views, and Server Actions**
+* 🔄 Implementing and customizing business workflows across various Odoo modules based on business needs
+* 🔌 Building and integrating **REST APIs** with Odoo systems
+* 🗄️ Solid understanding of **PostgreSQL** and database design within Odoo
+* 🖥️ Experienced in **Linux server administration, Odoo deployment, configuration, and production environments**
+* ⚙️ Experienced in setting up **CI/CD pipelines, automated deployments, Git workflows, and server-side application management**
+* 🌐 Familiar with deploying and managing Odoo applications on **VPS/Cloud servers**
+* ⚡ Focused on writing clean, scalable, and maintainable backend code
 
 ---
 
@@ -23,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python" width="45"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="45"/>
   <img src="https://skillicons.dev/icons?i=js" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
@@ -34,19 +38,35 @@
 
 ## ⚡ What I Work On
 
-- 🔧 Custom Odoo Module Development
-- 🧠 Business Logic Implementation
-- 🔄 Workflow Automation
-- 🧾 QWeb Report Customization
-- 🗄️ Database Design & Optimization
+* 🔧 Custom Odoo Module Development
+* 🧠 Business Logic Implementation
+* 🔄 Workflow Automation
+* 🔌 REST API Development & Integrations
+* 🧾 QWeb Report Customization
+* 🗄️ Database Design & Optimization
+* 🖥️ Odoo Server Deployment & Configuration
+* ⚙️ **CI/CD Pipelines & Automated Deployments**
+* 🔐 **Linux Server & Production Environment Management**
+
+---
+
+## 🚀 DevOps & Deployment
+
+* 🐧 Linux / Ubuntu Server Administration
+* 🌐 Odoo Production Deployment
+* 🔄 CI/CD with **Jenkins & Git**
+* 📦 Automated application deployment and updates
+* ⚙️ Systemd Services & Process Management
+* 🔒 SSH, Server Configuration & Environment Management
+* ☁️ VPS / Cloud Server Deployment
 
 ---
 
 ## 🔙 Background
 
-- 💻 Web Developer with strong experience in **React.js & Next.js**
-- 🎨 Skilled in building modern, responsive, and high-performance user interfaces
-- 🔗 This background helps me understand the full system and build better backend solutions
+* 💻 Web Developer with strong experience in **React.js & Next.js**
+* 🎨 Skilled in building modern, responsive, and high-performance user interfaces
+* 🔗 This background helps me understand the full system and build better backend solutions
 
 ---
 
